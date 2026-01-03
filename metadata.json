@@ -1,0 +1,7 @@
+{
+  "name": "Test Manager Pro - Google Sheets Edition",
+  "description": "A high-performance web application for managing test cycles, integrated with Google Sheets as a database backend with AI-enhanced observation features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
